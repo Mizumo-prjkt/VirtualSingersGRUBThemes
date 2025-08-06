@@ -9,7 +9,7 @@ This repository is meant to hold several Vocaloid, UTAULoid, and other virtual s
 
 # Licenses
 
-The repository is under MIT License
+The repository is under GPL 3 License
 
 All copyright and trademark rights however are reserved by their respective owners.
 
