@@ -25,6 +25,6 @@ terminal-height: "100%"
     top = 84%
     align = "center"
     id = "__timeout__"
-    text = "Selectd OS will soon start at %d seconds."
+    text = "Selected OS will soon start at %d seconds."
     color = "#cccccc"
 }
