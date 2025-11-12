@@ -1,3 +1,3 @@
-psd/v2_aki_fl_rev3.psd - https://www.zerochan.net/3204069#content
-psd/v3_hatsune_miku.psd - https://wall.alphacoders.com/big.php?i=1306228
-psd/v2_tet_sy.psd - https://wall.alphacoders.com/big.php?i=1140173
+- psd/v2_aki_fl_rev3.psd - https://www.zerochan.net/3204069#content
+- psd/v3_hatsune_miku.psd - https://wall.alphacoders.com/big.php?i=1306228
+- psd/v2_tet_sy.psd - https://wall.alphacoders.com/big.php?i=1140173
