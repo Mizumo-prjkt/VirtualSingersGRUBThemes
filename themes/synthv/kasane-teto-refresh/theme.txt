@@ -7,10 +7,10 @@ terminal-width: "100%"
 terminal-height: "100%"
 
 + boot_menu {
-    left = 150
-    top =  35%
+    left = 85
+    top =  40%
     width = 500
-    height = 35%
+    height = 40%
     item_color = "#cccccc"
     selected_item_color = "#ffffff"
     item_icon_space = 15
