@@ -3,7 +3,7 @@
 # Package the theme files into a tarball for public distribution.
 
 # First, list down the themes directory
-# First, lets check the crypton directory, then synthv, then fanloid
+# then, lets check the crypton directory, then synthv, then fanloid
 # List down the folders in an array
 
 CRYPTON_DIR="themes/crypton"
